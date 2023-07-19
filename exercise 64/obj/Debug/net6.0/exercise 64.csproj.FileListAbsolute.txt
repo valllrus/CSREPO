@@ -1,0 +1,15 @@
+/Users/Legoman/Desktop/homework/exercise 64/bin/Debug/net6.0/exercise 64
+/Users/Legoman/Desktop/homework/exercise 64/bin/Debug/net6.0/exercise 64.deps.json
+/Users/Legoman/Desktop/homework/exercise 64/bin/Debug/net6.0/exercise 64.runtimeconfig.json
+/Users/Legoman/Desktop/homework/exercise 64/bin/Debug/net6.0/exercise 64.dll
+/Users/Legoman/Desktop/homework/exercise 64/bin/Debug/net6.0/exercise 64.pdb
+/Users/Legoman/Desktop/homework/exercise 64/obj/Debug/net6.0/exercise 64.csproj.AssemblyReference.cache
+/Users/Legoman/Desktop/homework/exercise 64/obj/Debug/net6.0/exercise 64.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Legoman/Desktop/homework/exercise 64/obj/Debug/net6.0/exercise 64.AssemblyInfoInputs.cache
+/Users/Legoman/Desktop/homework/exercise 64/obj/Debug/net6.0/exercise 64.AssemblyInfo.cs
+/Users/Legoman/Desktop/homework/exercise 64/obj/Debug/net6.0/exercise 64.csproj.CoreCompileInputs.cache
+/Users/Legoman/Desktop/homework/exercise 64/obj/Debug/net6.0/exercise 64.dll
+/Users/Legoman/Desktop/homework/exercise 64/obj/Debug/net6.0/refint/exercise 64.dll
+/Users/Legoman/Desktop/homework/exercise 64/obj/Debug/net6.0/exercise 64.pdb
+/Users/Legoman/Desktop/homework/exercise 64/obj/Debug/net6.0/exercise 64.genruntimeconfig.cache
+/Users/Legoman/Desktop/homework/exercise 64/obj/Debug/net6.0/ref/exercise 64.dll
